@@ -6,7 +6,7 @@ const About = () => (
     <>
     <Carousel className='main-font'>
         <Carousel.Item>
-            <img
+            <img 
               className="d-block w-100"
               src="https://images.unsplash.com/photo-1583621908511-e082803e3aa2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1327&q=80"
               alt="My Name is Hannah Holt"

@@ -10,7 +10,7 @@ const Home = () => (
             <Col as={cardImageContainer}>
                 <CardImage 
                     alt={HannahProfile1.jpg}
-                    Img src={HannahProfile1}
+                    img='true' src={HannahProfile1}
                 />
             </Col>
             <Col as={cardText} className='main-font'>
