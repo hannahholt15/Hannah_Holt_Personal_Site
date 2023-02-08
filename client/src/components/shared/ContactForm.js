@@ -11,8 +11,8 @@ const ContactForm = () => {
   const navigate = useNavigate();
 
   const handleSubmit = (e) => {
-  console.log ( typeof(process.env.REACT_APP_PUBLIC_KEY) )
-    debugger
+  // console.log ( typeof(process.env.REACT_APP_PUBLIC_KEY) )
+  //   debugger
 
     // let template_params = {
     //   "reply_to": contact.reply_to,
