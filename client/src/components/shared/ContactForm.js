@@ -1,8 +1,9 @@
 import { useState, useRef } from 'react';
-import emailjs from 'emailjs-com';
+// import emailjs from 'emailjs-com';
 import { useNavigate } from 'react-router-dom';
 import { Form, ContactTextInput, ContactTextArea } from '../styles/ContactStyles';
 import { MainBtn, HomeSubTitle } from '../styles/SharedStyles';
+import emailjs from '@emailjs/browser';
 
 const ContactForm = () => {
   const form = useRef();

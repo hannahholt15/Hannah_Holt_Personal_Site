@@ -5,7 +5,6 @@ import MainNavbar from './components/shared/MainNavbar';
 import About from './components/shared/About';
 import ContactMe from './components/shared/ContactMe';
 import Thanks from './components/shared/Thanks';
-import Footer from './components/shared/Footer';
 
 
 const App = () => (

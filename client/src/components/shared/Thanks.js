@@ -1,6 +1,5 @@
 import {StyledContainer} from '../styles/shared';
 import Footer from './Footer';
-import { Row } from 'react-bootstrap';
 
 const Thanks = () => (
     <>
